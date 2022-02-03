@@ -1,0 +1,92 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+}
+
+body{
+	margin: 0;
+}
+.box {
+	
+	width: 1100px;
+	margin: 0 auto;
+}
+.logo {
+	width: 1100px;
+	padding-top: 105px;
+	margin: 0 auto;
+	text-align: center;
+}
+.logo h1 {
+	text-transform: uppercase;
+	font-size: 36px;
+	font-family: "Tahoma";
+	color: #212121;
+	font-weight: lighter;
+	margin: 0;
+	
+
+}
+.cherta {
+	width: 64px;
+	height: 2px;
+	background-color: #ff8b38;
+	margin: 30px auto;
+	margin-bottom: 30px;
+
+}
+.text_logo {
+	color: #a1a2a5;
+	margin-bottom: 80px;
+	font-family: "Tahoma";
+	font-size: 14px;
+
+}
+.logo_element {
+	display: flex;
+	text-align: center;
+	font-family: "Tahoma";
+	justify-content: space-between;
+
+}
+.logo_element h3{
+	color: #333333;
+	font-family: "Tahoma";
+	font-weight: lighter;
+	margin: 25px 0 20px;
+}
+.logo_element p{
+	color: #a1a2a5;
+	line-height: 20px;
+	font-size: 14px;
+
+}
+.logo_element_box {
+	max-width: 330px;
+
+}
+.logo_img{
+	
+}
+.fa {
+	font-size: 30px;
+	text-align: center;
+	color: #ff8b38;
+	margin: 0 auto;
+	width: 70px;
+	height: 70px;
+	border: 2px solid #ff8b38;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+.fa-lightbulb-o {
+}
+.fa-keyboard-o {
+}
+
+.fa-bolt{
+}
+
